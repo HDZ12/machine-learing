@@ -1,2 +1,16 @@
 # machine-learing
  机器学习算法及python代码详解
+## [01.绪论](https://github.com/HDZ12/machine-learing/blob/main/01.%E7%BB%AA%E8%AE%BA/01.%E7%BB%AA%E8%AE%BA.md)
+## [02.模型的评估与选择](https://github.com/HDZ12/machine-learing/blob/main/02.%E6%A8%A1%E5%9E%8B%E7%9A%84%E8%AF%84%E4%BC%B0%E4%B8%8E%E9%80%89%E6%8B%A9/02.%E6%A8%A1%E5%9E%8B%E7%9A%84%E8%AF%84%E4%BC%B0%E4%B8%8E%E9%80%89%E6%8B%A9.md)
+## [03.决策树](https://github.com/HDZ12/machine-learing/blob/main/04.%E5%86%B3%E7%AD%96%E6%A0%91/04.%E5%86%B3%E7%AD%96%E6%A0%91.md)
+## [04.神经网络](https://github.com/HDZ12/machine-learing/blob/main/05.%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/05.%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.md)
+### [MLPClassifier](https://github.com/HDZ12/machine-learing/blob/main/05.%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/MLPClassifier%E4%BB%A3%E7%A0%81%E5%AE%9E%E4%BE%8B/MLPClassifier.py)
+## [06.支持向量机](https://github.com/HDZ12/machine-learing/blob/main/06.%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA/06.%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA.md)
+### [SVC](https://github.com/HDZ12/machine-learing/blob/main/06.%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA/SVM%E4%BB%A3%E7%A0%81/SVC.py)
+### [SVR](https://github.com/HDZ12/machine-learing/blob/main/06.%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA/SVM%E4%BB%A3%E7%A0%81/SVR.py)
+## [07.贝叶斯分类器](https://github.com/HDZ12/machine-learing/blob/main/07.%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%88%86%E7%B1%BB%E5%99%A8/07.%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%88%86%E7%B1%BB%E5%99%A8.md)
+### [Gauss](https://github.com/HDZ12/machine-learing/blob/main/07.%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%88%86%E7%B1%BB%E5%99%A8/%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%88%86%E7%B1%BB%E5%99%A8%E4%BB%A3%E7%A0%81/Gauss.py)
+### [MultionmialNB](https://github.com/HDZ12/machine-learing/blob/main/07.%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%88%86%E7%B1%BB%E5%99%A8/%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%88%86%E7%B1%BB%E5%99%A8%E4%BB%A3%E7%A0%81/MultinomialNB.py)
+## [08.EM算法](https://github.com/HDZ12/machine-learing/blob/main/08.EM%E7%AE%97%E6%B3%95/08.EM%E7%AE%97%E6%B3%95.md)
+## [09.集成学习](https://github.com/HDZ12/machine-learing/blob/main/09.%E9%9B%86%E6%88%90%E5%AD%A6%E4%B9%A0/09.%E9%9B%86%E6%88%90%E5%AD%A6%E4%B9%A0.md)
+## [聚类算法](https://github.com/HDZ12/machine-learing/blob/main/10.%E8%81%9A%E7%B1%BB%E7%AE%97%E6%B3%95/10.%E8%81%9A%E7%B1%BB%E7%AE%97%E6%B3%95.md)
