@@ -13,4 +13,4 @@
 ### [MultionmialNB](https://github.com/HDZ12/machine-learing/blob/main/07.%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%88%86%E7%B1%BB%E5%99%A8/%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%88%86%E7%B1%BB%E5%99%A8%E4%BB%A3%E7%A0%81/MultinomialNB.py)
 ## [08.EM算法](https://github.com/HDZ12/machine-learing/blob/main/08.EM%E7%AE%97%E6%B3%95/08.EM%E7%AE%97%E6%B3%95.md)
 ## [09.集成学习](https://github.com/HDZ12/machine-learing/blob/main/09.%E9%9B%86%E6%88%90%E5%AD%A6%E4%B9%A0/09.%E9%9B%86%E6%88%90%E5%AD%A6%E4%B9%A0.md)
-## [聚类算法](https://github.com/HDZ12/machine-learing/blob/main/10.%E8%81%9A%E7%B1%BB%E7%AE%97%E6%B3%95/10.%E8%81%9A%E7%B1%BB%E7%AE%97%E6%B3%95.md)
+## [10.聚类算法](https://github.com/HDZ12/machine-learing/blob/main/10.%E8%81%9A%E7%B1%BB%E7%AE%97%E6%B3%95/10.%E8%81%9A%E7%B1%BB%E7%AE%97%E6%B3%95.md)
